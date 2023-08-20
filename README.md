@@ -3,8 +3,7 @@
 
 # QuantumQrew SuperAGI Summarizer
 
-![Project Logo](![Uploading WhatsApp Image 2023-08-21 at 02.29.26.jpg…]()
-) <!-- If you have a project logo, add it here -->
+![Project Logo](logo.png) <!-- If you have a project logo, add it here -->
 
 Welcome to QuantumQrew's SuperAGI Summarizer Agent! 🚀
 
