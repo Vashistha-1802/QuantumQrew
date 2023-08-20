@@ -31,6 +31,52 @@ To get started with the QuantumQrew SuperAGI Summarizer, follow these steps:
 <a href="https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=640182997&machine=basicLinux32gb&location=EastUs"> <img src="https://github.com/codespaces/badge.svg"></a><br>Not sure how to setup? <a href="https://youtu.be/yvmNthyWYCE">Learn here</a>
 </p>
 
+## Getting Started
+
+To utilize the QuantumQrew SuperAGI Agent, follow these steps:
+
+### Initial Setup
+
+1. **Access Codespace (Optional):** If the provided commands do not work on your machine, consider using Codespace to customize your agent.
+
+### Running Your Agent
+
+1. **Create Agent:**
+
+   Run the following command to create your SuperAGI agent. Replace `{{URL}}` with the actual API endpoint URL.
+    # Run the curl command for creating the agent
+     
+     `curl --location -g '{{URL}}/api/v1/agent' \
+    --header 'X-API-Key: bf2b13a0-c5d3-403f-a887-ac8849b8304b' \
+    --data '{
+      "name": "test final 100212dsaCXZCa33",
+      "description": "AI assistant to solve complex problems",
+      "goal": ["CREATE A PHOTO OF A CAT"],
+      "agent_workflow": "Goal Based Workflow", 
+      "constraints": [
+          "~4000 word limit for short term memory.",
+          "Your short term memory is short, so immediately save important information to files.",
+          "If you are unsure how you previously did something or want to recall past events, thinking about similar events              will help you remember.",
+          "No user assistance",
+          "Exclusively use the commands listed in double quotes e.g. \"command name\""
+      ],
+      "instruction": [],
+      "tools":[
+          {   
+              "name":"Image Generation Toolkit"
+          },
+          {   
+              "name":"DuckDuckGo Search Toolkit"
+          }
+      ],
+      "iteration_interval": 500,
+      "model": "gpt-4",
+      "max_iterations": 25,
+      "schedule": null
+  }'`
+  
+  
+
 
 
 ## 🛠 Tools Used
