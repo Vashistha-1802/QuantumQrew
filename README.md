@@ -1,15 +1,15 @@
-# QuantumQrew
+![WhatsApp Image 2023-08-21 at 02 29 26](https://github.com/Vashistha-1802/QuantumQrew/assets/81288311/d00d8b42-8f4c-4e3f-b545-78fe84d76ad4)# QuantumQrew
 "QuantumQrew: Leveraging SuperAGI to automatically summarize web content scraped from URLs and deliver summaries to email inboxes. Revolutionizing information consumption with advanced AI and streamlined communication."
 
 # QuantumQrew SuperAGI Summarizer
 
-![Project Logo](link_to_your_logo.png) <!-- If you have a project logo, add it here -->
+![Project Logo](logo.png) <!-- If you have a project logo, add it here -->
 
-Welcome to QuantumQrew's SuperAGI Summarizer! 🚀
+Welcome to QuantumQrew's SuperAGI Summarizer Agent! 🚀
 
 ## Introduction
 
-QuantumQrew's SuperAGI Summarizer is an innovative tool that automates the process of summarizing web content using cutting-edge artificial general intelligence (SuperAGI). It combines advanced web scraping, powerful AI summarization, and seamless email delivery to provide concise and informative summaries of webpages, directly to your inbox.
+QuantumQrew's SuperAGI Summarizer Agent is an innovative tool that automates the process of summarizing web content using cutting-edge artificial general intelligence (SuperAGI). It combines advanced web scraping, powerful AI summarization, and seamless email delivery to provide concise and informative summaries of webpages, directly to your inbox.
 
 ## Features
 
@@ -34,18 +34,6 @@ To get started with the QuantumQrew SuperAGI Summarizer, follow these steps:
 4. Run the application: `python main.py`
 5. Sit back and let SuperAGI do the rest!
 
-## Contributing
-
-We welcome contributions from the community! If you'd like to contribute, please fork the repository, create a new branch, make your changes, and submit a pull request.
-
 ## Contact Us
-
-Have questions or feedback? Feel free to reach out to us at contact@quantumqrew.com.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-© 2023 QuantumQrew. All rights reserved.
+Have questions or feedback? Feel free to reach out to us at qrewquantum@gmail.com
 
