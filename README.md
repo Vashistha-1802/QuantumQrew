@@ -45,20 +45,7 @@ To utilize the QuantumQrew SuperAGI Agent, follow these steps:
 
    Run the following command to create your SuperAGI agent. Replace `{{URL}}` with the actual API endpoint URL.
     # Run the curl command for creating the agent
-    # QuantumQrew SuperAGI Agent
-
-Welcome to the QuantumQrew SuperAGI Agent! 🚀
-
-This repository provides a tool that leverages a custom SuperAGI agent to automate the process of summarizing web content. The agent is designed to generate accurate and insightful summaries, which are delivered directly to your inbox.
-
-## Getting Started
-
-To utilize the QuantumQrew SuperAGI Agent, follow these steps:
-
-### Create Agent
-
-Run the following command to create your SuperAGI agent. Replace `{{URL}}` with the actual API endpoint URL and provide a meaningful name for your agent.
-
+   
 ```bash
 curl --location -g '{{URL}}/api/v1/agent' \
 --header 'X-API-Key: YOUR_API_KEY' \
@@ -84,7 +71,14 @@ curl --location -g '{{URL}}/api/v1/agent' \
     "max_iterations": 25,
     "schedule": null
 }'
-
+```
+2. **Run Agent:**
+Execute the following command to run your SuperAGI agent. Replace {{URL}} and {{agent_id}} with the actual API endpoint URL and agent ID.
+```bash
+curl --location -g '{{URL}}/api/v1/agent/{agent_id}/run' \
+--header 'X-API-Key: bf2b13a0-c5d3-403f-a887-ac8849b8304b' \
+--data '{}'
+```
 
   
 
