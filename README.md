@@ -3,8 +3,6 @@
 
 # QuantumQrew SuperAGI Summarizer
 
-</a><a href="#"><img src=https://github.com/Vashistha-1802/QuantumQrew/blob/main/logo.png.jpg height=150px width=150px alt="logo" valign="middle" title="logo"></a>
-
 Welcome to QuantumQrew's SuperAGI Summarizer Agent! 🚀
 
 ## Introduction
@@ -32,7 +30,9 @@ To get started with the QuantumQrew SuperAGI Summarizer, follow these steps:
 <a href="https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=640182997&machine=basicLinux32gb&location=EastUs"> <img src="https://github.com/codespaces/badge.svg"></a><br>Not sure how to setup? <a href="https://youtu.be/yvmNthyWYCE">Learn here</a>
 </p>
 
-## 🛠 Tools
+
+
+## 🛠 Tools Used
 <a href="#"><img src=https://superagi.com/wp-content/uploads/2023/08/Web_scraper_logo.png height=50px width=50px alt="Web Scraper" valign="middle" title="Web Scraper"><a href="#"><img src=https://superagi.com/wp-content/uploads/2023/05/Group-113612.png height=50px width=50px alt="Email"  valign="middle" title="Email"></a>
 
 ## 💻 Screenshots
