@@ -1,9 +1,10 @@
-![WhatsApp Image 2023-08-21 at 02 29 26](https://github.com/Vashistha-1802/QuantumQrew/assets/81288311/d00d8b42-8f4c-4e3f-b545-78fe84d76ad4)# QuantumQrew
+# QuantumQrew
 "QuantumQrew: Leveraging SuperAGI to automatically summarize web content scraped from URLs and deliver summaries to email inboxes. Revolutionizing information consumption with advanced AI and streamlined communication."
 
 # QuantumQrew SuperAGI Summarizer
 
-![Project Logo](logo.png) <!-- If you have a project logo, add it here -->
+![Project Logo](![Uploading WhatsApp Image 2023-08-21 at 02.29.26.jpg…]()
+) <!-- If you have a project logo, add it here -->
 
 Welcome to QuantumQrew's SuperAGI Summarizer Agent! 🚀
 
