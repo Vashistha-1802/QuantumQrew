@@ -3,7 +3,7 @@
 
 # QuantumQrew SuperAGI Summarizer
 
-![Project Logo](logo.png) <!-- If you have a project logo, add it here -->
+![Project Logo]([logo.png](https://github.com/Vashistha-1802/QuantumQrew/blob/main/logo.png.jpg)) <!-- If you have a project logo, add it here -->
 
 Welcome to QuantumQrew's SuperAGI Summarizer Agent! 🚀
 
