@@ -37,7 +37,8 @@ To get started with the QuantumQrew SuperAGI Summarizer, follow these steps:
 <a href="#"><img src=https://superagi.com/wp-content/uploads/2023/08/Web_scraper_logo.png height=50px width=50px alt="Web Scraper" valign="middle" title="Web Scraper"><a href="#"><img src=https://superagi.com/wp-content/uploads/2023/05/Group-113612.png height=50px width=50px alt="Email"  valign="middle" title="Email"></a>
 
 ## 💻 Screenshots
-![Uploading image.png…]()
+![image](https://github.com/Vashistha-1802/QuantumQrew/assets/81288311/0a58984f-4ccf-4d8d-938c-6ba378889524)
+
 
 <p align="center"><a href="https://github.com/TransformerOptimus/SuperAGI#"><img src="https://superagi.com/wp-content/uploads/2023/05/backToTopButton.png" alt="Back to top" height="29"/></a></p>
 
