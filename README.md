@@ -37,51 +37,7 @@ To get started with the QuantumQrew SuperAGI Summarizer, follow these steps:
 
 ## 💻 Screenshots
 
-<p align="center">
-  <a href="https://superagi.com//#gh-dark-mode-only">
-    <img src="https://superagi.com/wp-content/uploads/2023/05/Dark-Dashboard.png" alt="SuperAGI logo" />
-  </a>
-</p>
-
-
-## 🛣 Roadmap
-[Click here to checkout the latest roadmap 🔗](https://github.com/users/TransformerOptimus/projects/5/views/1)
-
-
-<a id="architecture">
-
-## 🌐 Architecture
-</a>
-<details>
-<summary>SuperAGI Architecture</summary>
-
-![SuperAGI Architecture](https://superagi.com/wp-content/uploads/2023/06/SuperAGI-Architecture.png)
-</details>
-
-<details>
-<summary>Agent Architecture</summary>
-
-![Agent Architecture](https://superagi.com/wp-content/uploads/2023/06/Agent-Architecture.png)
-</details>
-
-<details>
-<summary>Agent Workflow Architecture</summary>
-
-![Agent Workflow Architecture](https://superagi.com/wp-content/uploads/2023/06/Agent-Workflow.png)
-</details>
-
-<details>
-<summary>Tools Architecture</summary>
-
-![Tools Architecture](https://superagi.com/wp-content/uploads/2023/06/Tool-Architecture.png)
-</details>
-
-<details>
-<summary>ER Diagram</summary>
-
-![ER Diagram](https://superagi.com/wp-content/uploads/2023/06/ER-Diagram.png)
-</details>
-
+![Uploading image.png…]()
 
 ## ⚙️ Setting up
 
