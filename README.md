@@ -3,8 +3,7 @@
 
 # QuantumQrew SuperAGI Summarizer
 <p align = "center"><a href="#"><img src=https://github.com/Vashistha-1802/QuantumQrew/assets/81288311/02926a2f-e38b-4d65-8afc-1cc870b37ea2 height=215px width=200px alt="LOGO" valign="middle" title="LOGO"></a>
-</p>p
-
+</p>
 
 Welcome to QuantumQrew's SuperAGI Summarizer Agent! 🚀
 
