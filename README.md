@@ -72,15 +72,22 @@ curl --location -g '{{URL}}/api/v1/agent' \
     "schedule": null
 }'
 ```
+
 2. **Run Agent:**
 Execute the following command to run your SuperAGI agent. Replace {{URL}} and {{agent_id}} with the actual API endpoint URL and agent ID.
+
 ```bash
 curl --location -g '{{URL}}/api/v1/agent/{agent_id}/run' \
 --header 'X-API-Key: bf2b13a0-c5d3-403f-a887-ac8849b8304b' \
 --data '{}'
 ```
 
-  
+### Accessing Results
+After running the agent, you can view the generated summary in your email inbox.
+
+#### Please note that due to API credits constraints, the QuantumQrew SuperAGI Agent's full functionality is not available at the moment. However, future updates will include an extension that enables users to access summaries effortlessly.
+
+We apologize for any inconvenience and appreciate your understanding. If you encounter any issues or have questions, contact us at contact@quantumqrew.com.
 
 
 
@@ -89,6 +96,9 @@ curl --location -g '{{URL}}/api/v1/agent/{agent_id}/run' \
 
 ## 💻 Screenshots
 ![image](https://github.com/Vashistha-1802/QuantumQrew/assets/81288311/bf396a8f-a799-4ee8-a47f-012f06355b13)
+![mail_from_superagi](https://github.com/Vashistha-1802/QuantumQrew/assets/81288311/fb6fe09d-b4b1-4a64-87ae-11be77489812)
+
+
 
 
 
