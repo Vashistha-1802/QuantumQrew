@@ -88,7 +88,7 @@ After running the agent, you can view the generated summary in your email inbox.
 
 #### Please note that due to API credits constraints, the QuantumQrew SuperAGI Agent's full functionality is not available at the moment. However, future updates will include an extension that enables users to access summaries effortlessly.
 
-We apologize for any inconvenience and appreciate your understanding. If you encounter any issues or have questions, contact us at contact@quantumqrew.com.
+We apologize for any inconvenience and appreciate your understanding. If you encounter any issues or have questions, contact us at qrewquantum@gmail.com
 
 
 
